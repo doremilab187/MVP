@@ -1,0 +1,6 @@
+{
+  "name": "Do Re Mi Lab",
+  "description": "MVP interactivo de Do Re Mi Lab para estimulación rítmica y corporal con el método Dalcroze en el aula",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
